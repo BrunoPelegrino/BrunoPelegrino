@@ -36,7 +36,7 @@
 <img align="center" heigth="70" width="70" alt="Bruno-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" heigth="70" width="60" alt="Bruno-GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div><br>
-<h3>IDE & Tools</h3>
+<h3>Outros</h3>
 <div style="display: inline-blcok">
 <img align="center" heigth="90" width="90" alt="Bruno-Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
 <img align="center" heigth="80" width="80" alt="Bruno-Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
