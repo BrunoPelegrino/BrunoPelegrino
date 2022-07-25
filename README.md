@@ -3,7 +3,7 @@
 
 <ul style="list-style: none;">
 <li>:brazil: De Belo Horizonte, Minas Gerais, Brasil</li>
-<li>🌱 Atualmente cursando módulo de Back-end da Trybe</li>
+<li>🌱 Atualmente cursando módulo de Back-end da <a href="https://www.betrybe.com/">Trybe</a></li>
 <li> 😁 pronome: ele/dele
 </ul>
 <div align="center">
