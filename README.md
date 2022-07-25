@@ -28,6 +28,7 @@
 <h3>Testes<h3>
 <div style="display: inline-blcok">
 <img align="center" heigth="30" width="40" alt="Bruno-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="center" heigth="90" width="90" src="https://camo.githubusercontent.com/353c7d421e89f788590995c7575f510656da7cd9264923e16d0e1230f57da7a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52544c2d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="RTL" />
 </div><br>
 <h3>Controle de versionamento</h3>
 <div style="display: inline-blcok">
