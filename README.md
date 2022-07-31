@@ -24,6 +24,7 @@
 <img align="center" heigth="30" width="40" alt="Bruno-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" heigth="30" width="40" alt="Bruno-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" heigth="30" width="40" alt="Bruno-Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img align="center" heigth="30" width="40" alt="Bruno-Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="center" heigth="100" width="100"  alt="Bruno-Hooks" src="https://camo.githubusercontent.com/bf84de1cbea83a0d5c7aa378dac303a8e3c0725451dae190022dcb6d90e3a408/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d486f6f6b732d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d253233363144414642" />
 </div><br>
 <h3>Testes<h3>
