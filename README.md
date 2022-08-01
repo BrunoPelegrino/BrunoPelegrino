@@ -52,3 +52,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPelegrino&theme=dracula&=compact)](https://github.com/BrunoPelegrino/github-readme-stats)
 
+![Snake animation](https://github.com/BrunoPelegrino/BrunoPelegrino/blob/output/github-contribution-grid-snake.svg)
+
