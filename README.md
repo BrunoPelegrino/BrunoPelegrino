@@ -51,6 +51,7 @@
 </div><br>
 <h3>Outros</h3>
 <div style="display: inline-blcok">
+ <img align="center" heigth="100" width="80" alt="Bruno-EsLins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" />
 <img align="center" heigth="90" width="90" alt="Bruno-Slack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
 <img align="center" heigth="80" width="80" alt="Bruno-Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
 <img align="center" heigth="40" width="50" alt="Bruno-Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
