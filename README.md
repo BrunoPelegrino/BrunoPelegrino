@@ -33,16 +33,19 @@
 <img margin="10" align="center" heigth="40" width="50" alt="Bruno-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 <img align="center" heigth="50" width="60" alt="Bruno-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  </div><br>
-  
  <h3>Estudando :book:</h3>
   <div style="display: inline-blcok">
 <img margin="10" align="center" heigth="90" width="80" alt="Bruno-NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img margin="10" align="center" heigth="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img margin="10" align="center" heigth="110" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
  </div><br>
   
 <h3>Testes<h3>
 <div style="display: inline-blcok">
 <img align="center" heigth="30" width="40" alt="Bruno-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="center" heigth="90" width="90" alt="Bruno-RTL" src="https://camo.githubusercontent.com/353c7d421e89f788590995c7575f510656da7cd9264923e16d0e1230f57da7a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52544c2d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" />
+<img align="center" heigth="50" width="60" alt="Bruno-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+
 </div><br>
 <h3>Controle de versionamento</h3>
 <div style="display: inline-blcok">
