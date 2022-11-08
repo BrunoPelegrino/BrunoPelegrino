@@ -30,6 +30,7 @@
  
   <h3>Back-end</h3>
 <div style="display: inline-blcok">
+ <img margin="10" align="center" heigth="60" width="40" alt="Bruno-TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img margin="10" align="center" heigth="40" width="50" alt="Bruno-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 <img align="center" heigth="50" width="60" alt="Bruno-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img margin="10" align="center" heigth="90" width="80" alt="Bruno-NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
@@ -38,7 +39,7 @@
  </div><br>
  <h3>Estudando :book:</h3>
   <div style="display: inline-blcok">
-<img margin="10" align="center" heigth="60" width="40" alt="Bruno-TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img margin="10" align="center" heigth="60" width="40" alt="Bruno-MongoDb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 
  </div><br>
   
