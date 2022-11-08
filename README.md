@@ -39,7 +39,7 @@
  </div><br>
  <h3>Estudando :book:</h3>
   <div style="display: inline-blcok">
-   <img margin="10" align="center" heigth="60" width="40" alt="Bruno-MongoDb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+   <img margin="10" align="center" heigth="80" width="70" alt="Bruno-MongoDb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 
  </div><br>
   
