@@ -36,10 +36,11 @@
 <img margin="10" align="center" heigth="90" width="80" alt="Bruno-NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 <img margin="10" align="center" heigth="90" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img margin="10" align="center" heigth="110" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
+   <img margin="10" align="center" heigth="80" width="70" alt="Bruno-MongoDb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
  </div><br>
  <h3>Estudando :book:</h3>
   <div style="display: inline-blcok">
-   <img margin="10" align="center" heigth="80" width="70" alt="Bruno-MongoDb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img margin="10" align="center" heigth="80" width="70" alt="Bruno-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
  </div><br>
   
