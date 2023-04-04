@@ -1,6 +1,6 @@
 <h1 style="text-align: center;margin-bottom: 5px;">Olá, eu sou o Bruno Pelegrino<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
-<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Desenvolvedor Front-end e atualmente estudando Back-end</h3>
-
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Desenvolvedor web fullstack atualmente estudando Ciências da computação</h3>
+<h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Desenvolvedor Backend Jr suporte na Qesh</h3>
 <ul style="list-style: none;">
 <li>:brazil: De Belo Horizonte, Minas Gerais, Brasil</li>
 <li>🌱 Atualmente cursando módulo de Back-end da <a href="https://www.betrybe.com/" target="_blank">Trybe</a></li>
