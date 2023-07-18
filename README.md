@@ -67,8 +67,3 @@
 </div>
   
 ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoPelegrino&show_icons=true&count_private=true&theme=dracula&include_all)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPelegrino&theme=dracula&=compact)](https://github.com/BrunoPelegrino/github-readme-stats)
-
