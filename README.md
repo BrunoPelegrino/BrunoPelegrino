@@ -3,7 +3,7 @@
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Desenvolvedor Backend Jr suporte na Qesh</h3>
 <ul style="list-style: none;">
 <li>:brazil: De Belo Horizonte, Minas Gerais, Brasil</li>
-<li>🌱 Atualmente cursando módulo ciências da computação da <a href="https://www.betrybe.com/" target="_blank">Trybe</a></li>
+<li>🌱 Formado como desenvolvedor fullstack pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a></li>
 <li> 😁 pronome: ele/dele
 </ul>
 <div align="center">
